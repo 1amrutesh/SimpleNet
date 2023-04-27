@@ -17,7 +17,7 @@ LOGGER = logging.getLogger(__name__)
 
 _DATASETS = {
     "mvtec": ["datasets.mvtec", "MVTecDataset"],
-    "miad": ["datasets.miae", "MIADDataset"]
+    "miad": ["datasets.miae", "MIADDataset"],
 }
 
 
